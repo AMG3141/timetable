@@ -12,7 +12,7 @@
 |6|      |      |Ph D13|Er    |Cp E6 |
 
 
-| |2Mon  |1Tue  |1Wed  |1Thu  |1Fri  |
+| |2Mon  |2Tue  |2Wed  |2Thu  |2Fri  |
 |-|------|------|------|------|------|
 | |REG   |REG   |REG   |REG   |REG   |
 |1|      |Ma D2 |Cp E6 |Cp E6 |      |
